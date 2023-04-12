@@ -1,0 +1,12 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+/*if updates don't work...
+1. make sure you linked style to page
+2. make sure you linked them correctly and below original styles
+3. make sure you spelled everything correctly, including caps
+3b. try !important (before semicolon)
+4. try refreshing page
+5. try refreshing without cache
+6. try a different browers
+7. come to class and ask a TA
